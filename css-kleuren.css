@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255,99,71);
+    color: #222222;
+}
+
+.navigatie {
+    color: #231f20;
+    
+}
+
+.navigatie.pagina {
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navigatie:hover {
+    background-color: #222222;
+    color: white;
+}
+
