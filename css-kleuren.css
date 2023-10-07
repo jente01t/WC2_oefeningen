@@ -17,3 +17,17 @@ body {
     color: white;
 }
 
+.navigatie.rest {
+    color: #dadcde;
+}
+
+.blockquote {
+    background-color: white;
+    color: rgb(255,99,71);
+    align-items: center;
+}
+
+.restTekst {
+    background-color: #222222;
+    color: #ffd602;
+}
