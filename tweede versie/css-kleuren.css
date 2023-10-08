@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(255,99,71);
+    color: #222222;
+}
+
+nav a {
+    color: #231F20;
+}
+
+.current {
+    background-color: rgba(0,0,0,0.4);
+    color: #dadcde;
+}
+
+a {
+    color: #dadcde;
+}
+
+a:hover {
+    background-color: #222222;
+    color: white;
+}
+
+blockquote {
+    background-color: white;
+    color: rgb(255,99,71);
+    text-align: center;
+}
+
+.speciaal {
+    background-color: #222222;
+    color: #ffd602;
+}
