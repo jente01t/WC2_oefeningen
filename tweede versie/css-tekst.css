@@ -4,9 +4,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-nav {
+nav ul {
     background-color: #ffd602;
-    
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding: 20px;
 }
 
 nav a {
